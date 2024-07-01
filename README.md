@@ -12,7 +12,7 @@ Live Site:https://library-management-f105d.web.app/
 - **Social Media Integration:** Allow users to connect with the Book Buddy and experiences on social media platforms, and integrate social media feeds to showcase user-generated content through social links of Book Buddy website .
 - **Secure Authentication:** User's data is protected with secure authentication methods to ensure privacy and security.
 
-## Category :# Library Management System
+## Category : Library Management System
 
 
 ## NPM Packages Used
