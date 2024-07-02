@@ -17,6 +17,14 @@ Book Buddy is an innovative Library Management System designed to enhance the re
 
 ## Category : Library Management System
 
+## Used Technology
+* Daisy UI
+* Tailwind
+* Firebase
+* Javascript
+* React
+* MongoDB
+
 
 ## NPM Packages Used
 - **React-simple-typewriter**: Control over text looping and delay between loops with customizable typing speed & cursor appearance .
