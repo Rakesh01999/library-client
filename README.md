@@ -4,6 +4,9 @@ Welcome to Book Buddy !
 
 Live Site:https://library-management-f105d.web.app/
 
+## Overview
+Book Buddy is an innovative Library Management System designed to enhance the reading experience by offering a wide range of functionalities for book enthusiasts. This platform allows users to explore, borrow, and share their thoughts on books effortlessly.
+
 ## Features and Characteristics
 - **Book Management:** Allow users to manage their book collections, including adding new books, updating book details, and removing books from their borrow collection. This feature helps users keep track of their reading  preferences.
 - **Author Highlights:** User can easily know about the upcoming book event or latest launched book-writing of many renowned author 
