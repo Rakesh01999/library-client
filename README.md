@@ -15,7 +15,7 @@ Book Buddy is an innovative Library Management System designed to enhance the re
 - **Social Media Integration:** Allow users to connect with the Book Buddy and experiences on social media platforms, and integrate social media feeds to showcase user-generated content through social links of Book Buddy website .
 - **Secure Authentication:** User's data is protected with secure authentication methods to ensure privacy and security.
 
-## Category : Library Management System
+## Website Category : Library Management System
 
 ## Used Technology
 * Daisy UI
