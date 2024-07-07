@@ -4,6 +4,9 @@ Welcome to Book Buddy !
 
 Live Site:https://library-management-f105d.web.app/
 
+# Server Side Repo
+Github : [Library Server](https://github.com/Rakesh01999/library-server)
+
 ## Overview
 Book Buddy is an innovative Library Management System designed to enhance the reading experience by offering a wide range of functionalities for book enthusiasts. This platform allows users to explore, borrow, and share their thoughts on books effortlessly.
 
